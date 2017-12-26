@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Advance User Interface</string>
+    <string name="enter_a_note">Enter a note</string>
+    <string name="button">Button</string>
+</resources>
